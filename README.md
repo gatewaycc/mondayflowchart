@@ -1,6 +1,20 @@
+##  Support Documentation:
+* Python Quickstart Guide: [https://support.monday.com/hc/en-us/articles/360013483119](https://support.monday.com/hc/en-us/articles/360013483119)
+* Overview: [https://monday.com/developers/apps/manage](https://monday.com/developers/apps/manage)
+
+
 ## What we are building?
-1. We will be building out a GUI for a flowchart sequence possibly using a Switch Statement in Python.  This will be created for the Facilities Project Intake Form.
-2. We will be creating in-email button triggers where the AVP/Dean/VP will click on Approve or Deny to change the status of the project and move onto the next step.
+We're building the automations and integrations necessary for the Facilities Project Intake Form.  There are two parts to this:
+1. We will be building out a GUI for a flowchart sequence possibly using a Switch Statement in Python.
+2. We will be creating in-email button triggers so when the AVP/Dean/VP clicks on Approve or Deny, the status is changed in monday.com.
+
+
+### Tasks
+- [x] Determine process flowchart
+- [ ] next step
+- [ ] next step
+- [ ] next step
+
 
 ## Facilities Project Intake Form
 * Form URL: [https://forms.monday.com/forms/94b24a47ade146e00f794d2a620febf2](https://forms.monday.com/forms/94b24a47ade146e00f794d2a620febf2)
