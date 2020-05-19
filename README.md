@@ -13,9 +13,11 @@ The facilities project intake form will have a dropdown where the requester will
 
 ## Tasks
 - [x] Determine process flowchart
-- [ ] next step
-- [ ] next step
-- [ ] next step
+- [ ] switch statement emails selected AVP/Dean
+- [ ] when statement for approval that triggers email to PM
+- [ ] when statement for quote is entered, trigger email to VP
+- [ ] when statement for approval that triggers email to PM
+- [ ] create gmail button triggers
 
 
 ##  Support Documentation:
