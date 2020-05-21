@@ -11,15 +11,22 @@ We're building the automations and integrations necessary for the Facilities Pro
 The facilities project intake form will have a dropdown where the requester will choose an AVP/Dean.  The selected AVP/Dean will be sent an email where they approve or deny the proposed project.  If approved, an email is sent to the Project Manager requesting quotes for the project from the involved departments.  After the quotes are inputted, an email is sent to the corresponding VP based on the AVP/Dean selection.  If approved, a confirmation email is sent to the Project Manger.  
 
 
-## Tasks
+## Tasks for Part 1
 - [x] Determine process flowchart
+- [ ] Connect Python with Monday
 - [ ] switch statement emails selected AVP/Dean
 - [ ] when statement for approval that triggers email to PM
 - [ ] when statement for quote is entered, trigger email to VP
 - [ ] when statement for approval that triggers email to PM
-- [ ] create gmail button triggers
+
+
+## Possible Monday Automation Format
+When _AVP dropdown_ is selected, send _email_.
+When _number_ is _greater than_ a _value_ and _AVP dropdown_ is selected, send _email_ to _VP dropdown_.
 
 
 ##  Support Documentation:
 * Python Quickstart Guide: [https://support.monday.com/hc/en-us/articles/360013483119](https://support.monday.com/hc/en-us/articles/360013483119)
 * Overview: [https://monday.com/developers/apps/manage](https://monday.com/developers/apps/manage)
+* Monday Playground: [https://gateway-cc.monday.com/apps/playground](https://gateway-cc.monday.com/apps/playground)
+* Community Forums: [https://community.monday.com/](https://community.monday.com/)
