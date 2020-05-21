@@ -21,7 +21,8 @@ The facilities project intake form will have a dropdown where the requester will
 
 
 ## Possible Monday Automation Format
-When _AVP dropdown_ is selected, send _email_.
+When _AVP status_ is selected, send _email_.
+
 When _number_ is _greater than_ a _value_ and _AVP dropdown_ is selected, send _email_ to _VP dropdown_.
 
 
