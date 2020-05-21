@@ -30,3 +30,10 @@ When _number_ is _greater than_ a _value_ and _AVP dropdown_ is selected, send _
 * Overview: [https://monday.com/developers/apps/manage](https://monday.com/developers/apps/manage)
 * Monday Playground: [https://gateway-cc.monday.com/apps/playground](https://gateway-cc.monday.com/apps/playground)
 * Community Forums: [https://community.monday.com/](https://community.monday.com/)
+* Pip Install Monday: [https://pypi.org/project/monday/](https://pypi.org/project/monday/)
+
+---
+
+## How to get it working
+1. Control Panel > Systems > Advanced System Settings > Environmental Variables > System Variables PATH > Add > Edit > Select the path that ends in \38-32\
+2. Install Python 3.8 from Microsoft Store
