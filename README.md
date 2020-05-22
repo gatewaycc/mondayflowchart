@@ -32,6 +32,7 @@ When _number_ is _greater than_ a _value_ and _AVP dropdown_ is selected, send _
 * Monday Playground: [https://gateway-cc.monday.com/apps/playground](https://gateway-cc.monday.com/apps/playground)
 * Community Forums: [https://community.monday.com/](https://community.monday.com/)
 * Pip Install Monday: [https://pypi.org/project/monday/](https://pypi.org/project/monday/)
+* Monday API: [https://support.monday.com/hc/en-us/articles/360005144659-Does-monday-com-have-an-API-](https://support.monday.com/hc/en-us/articles/360005144659-Does-monday-com-have-an-API-)
 
 ---
 
