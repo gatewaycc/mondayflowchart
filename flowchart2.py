@@ -37,7 +37,7 @@ vars = {
  'myItemName' : 'Assign to Dyna and Senadz!',
  'columnVals' : json.dumps({
    'status' : {'label': 'Done'},
-    'person' : {'id' : 257954, 'kind' : 'team'}
+    'person' : {'id' : 257954, 'kind' : 'team'} # doesn't work
 
  })
 }
