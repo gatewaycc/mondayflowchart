@@ -36,3 +36,6 @@ When _number_ is _greater than_ a _value_ and _AVP dropdown_ is selected, send _
 * Community Forums: [https://community.monday.com/](https://community.monday.com/)
 * Pip Install Monday: [https://pypi.org/project/monday/](https://pypi.org/project/monday/)
 * Monday API: [https://support.monday.com/hc/en-us/articles/360005144659-Does-monday-com-have-an-API-](https://support.monday.com/hc/en-us/articles/360005144659-Does-monday-com-have-an-API-)
+
+### Notes
+* If modules are disconnected, open Administrator CMD and navigate to python scripts path _cd (C:\Program Files (x86)\Python38-32\Scripts)_ and then run the module installation _pip.exe install (monday)_

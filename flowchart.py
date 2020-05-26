@@ -1,3 +1,5 @@
+# Pip install monday: https://pypi.org/project/monday/
+
 import json
 import urllib.request
 from monday import MondayClient
