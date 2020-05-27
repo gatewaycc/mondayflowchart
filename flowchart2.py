@@ -32,16 +32,16 @@ headers = {"Authorization" : apiKey}
 # print(r.json())
 
 ######### test 4: create new item with graphql variables #########
-query4 = 'mutation ($myItemName: String!, $columnVals: JSON!) { create_item (board_id:558120502, item_name:$myItemName, column_values:$columnVals) { id } }'
-vars = {
- 'myItemName' : 'Assign to Dyna and Senadz!',
- 'columnVals' : json.dumps({
-   'status' : {'label': 'Done'},
-    'person' : {'id' : 257954, 'kind' : 'team'} # doesn't work
+# query4 = 'mutation ($myItemName: String!, $columnVals: JSON!) { create_item (board_id:558120502, item_name:$myItemName, column_values:$columnVals) { id } }'
+# vars = {
+# 'myItemName' : 'Assign to Dyna and Senadz!',
+# 'columnVals' : json.dumps({
+#   'status' : {'label': 'Done'},
+#    'person' : {'id' : 257954, 'kind' : 'team'} # doesn't work
 
- })
-}
+# })
+# }
 
-data = {'query' : query4, 'variables' : vars}
-r = requests.post(url=apiURL, json=data, headers=headers) # make request
-print(r.json())
+# data = {'query' : query4, 'variables' : vars}
+# r = requests.post(url=apiURL, json=data, headers=headers) # make request
+# print(r.json())

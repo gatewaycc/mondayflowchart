@@ -14,7 +14,7 @@ We're building the automations and integrations necessary for the Facilities Pro
 
 ### Tasks for Part 1
 - [x] Determine process flowchart
-- [ ] Connect Python with Monday
+- [x] Connect Python with Monday
 - [ ] switch statement emails selected AVP/Dean
 - [ ] when statement for approval that triggers email to PM
 - [ ] when statement for quote is entered, trigger email to VP
