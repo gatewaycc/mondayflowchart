@@ -17,7 +17,7 @@ headers = {"Authorization" : apiKey}
 
 # Request query of AVP/Dean data
 
-
+# figure out how to reverse the order of items being called or how to call the latest submission via creation log
 query = '{boards (ids:475894573){ items(limit: 1) {column_values(ids:avp_dean) {text}}}}'
 data = { 'query' : query}
 
